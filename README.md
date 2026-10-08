@@ -17,7 +17,7 @@ Każdy push do gałęzi `main` automatycznie buduje aplikację i publikuje ją p
 
 https://kondexor2000.github.io/algebra_dla_informatykow/
 
-Workflow wdrożeniowy znajduje się w `.github/workflows/deploy.yml`. Jeśli GitHub Pages nie zostało jeszcze włączone dla repozytorium, workflow skonfiguruje publikację ze źródła GitHub Actions.
+Workflow wdrożeniowy znajduje się w `.github/workflows/deploy.yml`. Przy pierwszej publikacji w ustawieniach repozytorium, w sekcji **Settings → Pages**, jako źródło należy wybrać **GitHub Actions**.
 
 ## Co zawiera
 
