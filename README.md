@@ -24,6 +24,9 @@ Workflow wdrożeniowy znajduje się w `.github/workflows/deploy.yml`. Przy pierw
 - krótkie wprowadzenie do półgrup, monoidów, grup, pierścieni i ciał;
 - interaktywny kalkulator arytmetyki modulo z tabelą działania;
 - generator 1 000 losowych trójek sprawdzających łączność wybranego działania;
+- szkic typowanego API dla monoidu, grupy, pierścienia i ciała;
+- interaktywny mnożnik w GF(2⁴) i GF(2⁸) z redukcją wielomianową;
+- analizator permutacji wyznaczający cykle rozłączne, rząd i parzystość;
 - przykładowy test własnościowy w stylu Rust/proptest.
 
 Próby losowe ilustrują testowanie własności, ale nie stanowią formalnego dowodu. Zakres merytoryczny jest wprowadzeniem do pojęć algebry abstrakcyjnej; szczegółowy program kursu należy odczytać bezpośrednio z podanego sylabusa.
