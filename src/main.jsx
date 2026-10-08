@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
-import { ArrowDown, ArrowRight, Atom, BookOpen, Check, ChevronDown, CircleHelp, Command, FlaskConical, Github, Layers3, Play, RotateCcw, ShieldCheck, Shuffle, Sparkles, Terminal, X } from 'lucide-react';
+import { ArrowDown, ArrowRight, Atom, BookOpen, Check, ChevronDown, CircleHelp, Command, FlaskConical, Layers3, Play, RotateCcw, ShieldCheck, Shuffle, Sparkles, Terminal, X } from 'lucide-react';
 import './style.css';
 
 const mod=(n,m)=>((n%m)+m)%m;
